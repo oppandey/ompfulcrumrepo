@@ -1,2 +1,3 @@
 "Welcome to File 1"
 "New Content Added"
+"File 1 updated in release"
